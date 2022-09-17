@@ -1,0 +1,7 @@
+03
+Apellido                       0010
+Nombre                         0010
+Legajo                         0006
+Pérez    Juan      4125
+Suárez   Enrique Jo1385
+Gómez    Juana     128 

@@ -1,0 +1,7 @@
+3 
+Nombre                          20  
+Apellido                        20  
+DNI                             8   
+Mateo               Asenzo              44167155
+Gonzalo             Benito              44552901
+Roman               Riquelme            24569986
